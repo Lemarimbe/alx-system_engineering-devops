@@ -1,3 +1,10 @@
+## Table of Contents
+
+- [pwd](# 0-current_working_directory.sh)
+- [ls](#1-listit)
+
+
+
 # 0-current_working_directory.sh
 This script is a simple Bash script that prints the absolute path name of the current working directory when executed. The script uses the pwd command to print the current working directory's absolute path name.
 
