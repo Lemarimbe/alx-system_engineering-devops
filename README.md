@@ -1,2 +1,2 @@
 # alx-system_engineering-devops
-Bash stuff
+Awesome Bash stuff
