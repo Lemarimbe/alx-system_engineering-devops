@@ -8,7 +8,7 @@ To run the script, simply navigate to the directory where the 0-current_working_
 
 This will print the absolute path name of the current working directory to the terminal.
 
-#Example
+# Example
 
 Suppose the 0-current_working_directory.sh file is located in the following directory:
 
