@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -p | LC_ALL=C sort -df | sed -e 's/\(.*\)/\1,/' | tr -d '\n'
+ls -ap| LC_COLLATE=C sort -d | sed 's/$/, /g' | xargs echo | sed 's/,$//g' 
