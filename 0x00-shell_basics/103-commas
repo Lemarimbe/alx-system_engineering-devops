@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -1 -a | sort -n | sed '$!s/$/,/;s/^\.\{1,2\}$/&\//' | tr -d '\n' && echo
+ls -1Ap | sed ':a;N;$!ba;s/\n/, /g'
