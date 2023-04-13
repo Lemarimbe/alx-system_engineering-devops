@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -ap| LC_COLLATE=C sort -d | sed 's/$/, /g' | xargs echo | sed 's/,$//g' 
+ls -ap| sed 's/$/, /g' | xargs echo | sed 's/,$//g' | sort -d
