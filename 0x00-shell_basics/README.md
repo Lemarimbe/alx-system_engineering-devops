@@ -1,6 +1,6 @@
 ## Table of Contents
 
-- [pwd](# 0-current_working_directory.sh)
+- [pwd](#0-current_working_directory.sh)
 - [ls](#1-listit)
 
 
