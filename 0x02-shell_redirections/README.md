@@ -23,3 +23,13 @@ Run the script by entering './1-confused_smiley' in your terminal.
 
 ## Expected Output
 "(Ôo)'
+
+## Bash Script - /etc/passwd contents
+This is a simple bash script that prints the contents of /etc/passwd file to standard output when executed.
+
+## How to Use
+Download the '2-hellofile' script to your local machine.
+Open your terminal and navigate to the directory where you saved the script.
+Make the script executable by running the command 'chmod +x 2-hellofile'.
+Run the script by entering './2-hellofile' in your terminal.
+
