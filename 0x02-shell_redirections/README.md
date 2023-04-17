@@ -1,6 +1,6 @@
 # Shell, I/O Redirections and filters
 
-Project done during ** Software Engineering studies** at **ALX**. 
+Project done during **Software Engineering studies** at **ALX**. 
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1).
